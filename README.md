@@ -1,5 +1,6 @@
 # vue-cli
 
+Проект CRM с пагинацией.
 ## Project setup
 ```
 npm install
